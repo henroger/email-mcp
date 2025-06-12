@@ -78,3 +78,6 @@ Once you have your key, replace `YOUR_KEY` in the configuration with your actual
   - `subject` (string): Email subject.
   - `html_body` (string, optional): HTML content.
   - `text_body` (string, optional): Plain text content.
+
+
+email-mcp is indexed and certified by [MCP Review](https://www.mcpreview.com)
