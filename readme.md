@@ -79,5 +79,8 @@ Once you have your key, replace `YOUR_KEY` in the configuration with your actual
   - `html_body` (string, optional): HTML content.
   - `text_body` (string, optional): Plain text content.
 
+### 4. Set email notification (`set_email_notification`)
+- **Description:** setup an email notification for an event which might happen in the future regularly
+- **Parameters:**
 
 email-mcp is indexed and certified by [MCP Review](https://mcpreview.com/mcp-servers/henroger/email-mcp)
