@@ -4,6 +4,8 @@ This project uses the [aigeon.ai](https://www.aigeon.ai) API to send emails and 
 
 For more help, please check the source code or contact the maintainer.
 
+email-mcp is indexed and certified by [MCP Review](https://mcpreview.com/mcp-servers/henroger/email-mcp)
+
 ## How to Add email-mcp as a MCP Server in Cursor
 
 1. Open the `.cursor/mcp.json` file (create it if it does not exist).
