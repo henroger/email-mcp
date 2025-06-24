@@ -1,5 +1,7 @@
 # Email Send MCP using [aigeon.ai](https://www.aigeon.ai) API
 
+email-mcp is hosted and certified by [MCP Review](https://mcpreview.com/mcp-servers/henroger/email-mcp)
+
 This project uses the [aigeon.ai](https://www.aigeon.ai) API to send emails and can be integrated as an MCP tool in MCP Clients like [Cursor](https://cursor.sh) and [Claude](https://claude.ai).
 
 For more help, please check the source code or contact the maintainer.
@@ -84,5 +86,3 @@ Once you have your key, replace `YOUR_KEY` in the configuration with your actual
 ### 4. Set email notification (`set_email_notification`)
 - **Description:** setup an email notification for an event which might happen in the future regularly
 - **Parameters:**
-
-email-mcp is indexed and certified by [MCP Review](https://mcpreview.com/mcp-servers/henroger/email-mcp)
